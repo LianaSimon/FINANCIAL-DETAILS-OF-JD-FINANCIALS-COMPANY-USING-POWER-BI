@@ -25,8 +25,10 @@ Price Comparisons:
 Sales Details:
 COGS Analysis:
 
-![image](https://github.com/user-attachments/assets/defc01bb-282e-4a9d-ac3a-6866a3456af1)
-![image](https://github.com/user-attachments/assets/ef7f83ba-34bb-4fcf-9357-860ca92ec6a8)
+Take a tour on the preview of the Dashboards:
+
+![image](https://github.com/user-attachments/assets/b5b56374-5965-4eb8-b585-a77daacdb7a9)
+![image](https://github.com/user-attachments/assets/ad118358-804d-4946-aa33-38a2daa510dc)
 ![image](https://github.com/user-attachments/assets/8861e85c-e22a-4e8d-91b2-b9e518b62dea)
 ![image](https://github.com/user-attachments/assets/fa9109f5-e039-4aef-acba-ea707832b64c)
 
