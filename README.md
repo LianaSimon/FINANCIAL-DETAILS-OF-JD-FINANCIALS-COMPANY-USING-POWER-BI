@@ -27,9 +27,16 @@ COGS Analysis:
 
 Take a tour on the preview of the Dashboards:
 
+COUNTRYWISE SALES DASHBOARD
 ![image](https://github.com/user-attachments/assets/b5b56374-5965-4eb8-b585-a77daacdb7a9)
+
+PRICE COMPARISON DASHBOARD
 ![image](https://github.com/user-attachments/assets/ad118358-804d-4946-aa33-38a2daa510dc)
+Price Comparison with BOOK MARK
+![image](https://github.com/user-attachments/assets/b457f9c1-124b-47fb-a960-499815c6a13c)
+CGOS VS PROFIT DASHBOARD
 ![image](https://github.com/user-attachments/assets/8861e85c-e22a-4e8d-91b2-b9e518b62dea)
+SALES DETAILS DASHBOARD
 ![image](https://github.com/user-attachments/assets/fa9109f5-e039-4aef-acba-ea707832b64c)
 
 
