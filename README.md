@@ -1,5 +1,6 @@
 # JD FINANCE COMPANY-Data Analysis
-About the Project
+## About the Project
+
 This Power BI project is designed to analyze and visualize critical financial and operational metrics for JD Finance, enabling better decision-making and strategic insights. The dashboard focuses on delivering clear, interactive visualizations that provide an in-depth understanding of the company's performance across various dimensions, such as sales, pricing, and cost of goods sold (COGS).
 
  The data has been cleaned and visualized to provide insights into the following key areas:
