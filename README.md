@@ -51,19 +51,21 @@ COGS Analysis:
 
 ## Benefits of the Dashboard
 
-Enhanced Decision-Making: Interactive visuals help stakeholders quickly identify key insights.
+* Enhanced Decision-Making: Interactive visuals help stakeholders quickly identify key insights.
 
-Time-Saving: Automated data processing and visualizations reduce the need for manual reporting.
+* Time-Saving: Automated data processing and visualizations reduce the need for manual reporting.
 
-Actionable Insights: Granular data empowers teams to make data-driven decisions.
+* Actionable Insights: Granular data empowers teams to make data-driven decisions.
 
-Transparency: Clear visuals and detailed breakdowns provide transparency across financial metrics.
+* Transparency: Clear visuals and detailed breakdowns provide transparency across financial metrics.
 
 
 ## Technical Details
 
 Tool: Microsoft Power BI
+
 Key Visuals Used:
+
 Maps: To visualize sales distribution by country.
 Line Charts: For price trend analysis.
 Bar/Column Charts: For sales and COGS comparison.
@@ -72,7 +74,9 @@ Filters,Bookmarks,Buttons and Slicers: To allow users to interact with the data 
 
 # Contributors
 Liana Simon
+
 Aspiring Data Analyst | Power BI Developer
+
 lianasimon.90@gmail.com
 
 Feel free to reach out for questions, feedback, or further collaboration opportunities
