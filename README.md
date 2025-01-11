@@ -15,13 +15,13 @@ The goal is to present actionable insights that can help stakeholders understand
 
 ## Steps Performed:
 
-Handled Missing Values: Replaced or removed missing data to ensure dataset completeness.
+*Handled Missing Values: Replaced or removed missing data to ensure dataset completeness.
 
-Standardized Formats: Ensured consistency in data types, date formats, and currency representations.
+*Standardized Formats: Ensured consistency in data types, date formats, and currency representations.
 
-Removed Duplicates: Identified and removed duplicate records.
+*Removed Duplicates: Identified and removed duplicate records.
 
-Data Transformation: Applied transformations for better analysis (e.g., converting raw sales data to aggregated metrics).
+*Data Transformation: Applied transformations for better analysis (e.g., converting raw sales data to aggregated metrics).
 
 ## Visualization
 
@@ -46,7 +46,7 @@ COGS Analysis:
 ## CGOS VS PROFIT DASHBOARD
 ![image](https://github.com/user-attachments/assets/8861e85c-e22a-4e8d-91b2-b9e518b62dea)
 
-SALES DETAILS DASHBOARD
+## SALES DETAILS DASHBOARD
 ![image](https://github.com/user-attachments/assets/fa9109f5-e039-4aef-acba-ea707832b64c)
 
 ## Benefits of the Dashboard
