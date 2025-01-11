@@ -11,12 +11,16 @@ Cost of Goods Sold (COGS)
 
 The goal is to present actionable insights that can help stakeholders understand financial trends and make informed decisions.
 
-## Data Cleaning
+# Data Cleaning
 
-Steps Performed:
+## Steps Performed:
+
 Handled Missing Values: Replaced or removed missing data to ensure dataset completeness.
+
 Standardized Formats: Ensured consistency in data types, date formats, and currency representations.
+
 Removed Duplicates: Identified and removed duplicate records.
+
 Data Transformation: Applied transformations for better analysis (e.g., converting raw sales data to aggregated metrics).
 
 ## Visualization
